@@ -4,6 +4,7 @@
 ## Desafio de projeto
 Resolver os exercicios e aplicando testes unitarios.
 
-## Contexto
+## Quantidade de testes aprovados até o momento:
 
+<img src="Imagens/tests.png" alt="logo_samuelflm">
 
