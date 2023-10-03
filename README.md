@@ -2,7 +2,7 @@
 
 
 ## Desafio de projeto
-Resolver os exercicios e aplicando testes unitarios.
+Resolvendo exercicios de logica de programação e aplicando testes unitarios em C#.
 
 ## Quantidade de testes aprovados até o momento:
 
