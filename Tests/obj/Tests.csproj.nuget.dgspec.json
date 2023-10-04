@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj": {}
+    "c:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj": {
+    "c:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj",
+        "projectUniqueName": "c:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj",
+        "projectPath": "c:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Lazer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\obj\\",
+        "outputPath": "c:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
