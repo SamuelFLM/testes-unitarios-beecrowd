@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S58aTL79I5xeS7VTG8LZ+S7XsHVcxsjcLn3Za70dlsV2DsM9cpxwC3oUQSirul+yxH2kF3L+ZWWyLomUDzwxXQ==",
+  "dgSpecHash": "nfb1s7nguuomdr+Vouwn9Ym9Gy4VxBoLexz5j8BnZSVmCkWWKx3/ac+ywwg/VoSdX80t5nYUix+Fmo52Mt6D2g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\Lazer\\OneDrive\\Área de Trabalho\\beecrowd\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lazer\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Lazer\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
