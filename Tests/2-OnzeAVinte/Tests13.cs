@@ -13,8 +13,7 @@ namespace Tests.OnzeAVinte
         [InlineData(new int[] { 217, 14, 6 }, "217 eh o maior")]
         public void Sucesso(int[] num, string resultadoEsperado)
         {
-            string resultado = $"{num.Max()} eh o maior";
-            Assert.Equal(resultadoEsperado, resultado);
+            Assert.Equal(resultadoEsperado, $"{num.Max()} eh o maior");
         }
     }
 }
