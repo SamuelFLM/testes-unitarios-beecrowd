@@ -6,5 +6,5 @@ Resolvendo exercicios de logica de programação e aplicando testes unitarios em
 
 ## Quantidade de testes aprovados até o momento:
 
-<img src="Imagens/tests.png" alt="logo_samuelflm">
+<img src="Imagens/tests1.png" alt="logo_samuelflm">
 
